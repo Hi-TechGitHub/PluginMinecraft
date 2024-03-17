@@ -1,0 +1,8 @@
+worlds:
+  # Наименование мира, например spawn, world, world_the_end
+  - name: spawn
+    # Координаты для респавна игрока при падении в пустоту
+    spawnLocation:
+      x: 0
+      y: 0
+      z: 0

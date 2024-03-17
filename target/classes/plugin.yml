@@ -1,0 +1,19 @@
+name: MyPlugin
+version: '1.0'
+main: strikemine.myplugin.MyPlugin
+api-version: '1.16'
+commands:
+  pain:
+    description: Ставит значение жизней до 2.5 хп, и даёт алмаз как компенсацию за боль
+    usage: /pain <player>
+  kit:
+
+  heal:
+    description: Ставит значение жизней до 10 хп, вызывает спираль из частиц
+    usage: /heal <player>
+
+  spawnCreeper:
+    aliases:
+      - sc
+  giveItem:
+  enableeffect:

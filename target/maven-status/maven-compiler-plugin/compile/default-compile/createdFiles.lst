@@ -1,0 +1,11 @@
+strikemine\myplugin\commands\Console.class
+strikemine\myplugin\items\GiveItem.class
+strikemine\myplugin\entity\SpawnCreeper.class
+strikemine\myplugin\commands\KitCommandCompleter.class
+strikemine\myplugin\commands\KitCommandExecutor.class
+strikemine\myplugin\MyPlugin.class
+strikemine\myplugin\healths\Pain.class
+strikemine\myplugin\events\AreaEffect.class
+strikemine\myplugin\particle\Spiral.class
+strikemine\myplugin\healths\Heal.class
+strikemine\myplugin\particle\SpiralRed.class
